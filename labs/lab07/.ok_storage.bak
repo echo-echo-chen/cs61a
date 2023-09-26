@@ -3,3 +3,4 @@
 'Player.__init__-correct', (1024, 66)
 'Player.draw-correct', (1536, 66)
 'Player.play-correct', (2048, 66)
+'AICard.effect-correct', (2560, 66)
